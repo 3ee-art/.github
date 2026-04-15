@@ -1,4 +1,4 @@
-# 🕸️ 3EE Organization | منظمة 3EE
+# 🕸️ 3EE Organization
 
 <p align="center">
   <img src="logo.jpeg" alt="3EE Logo" width="250">
@@ -13,13 +13,13 @@ One of the organization's most controversial and technically astute projects. Th
 
 Current Status: The project has been kept as a "Proof of Concept" within the organization's labs and has not been released to the public due to the organization's security policies and programming ethics during its experimental phases.
 
-Founder's Philosophy (Mohammed Yassin Al-Haddad)
+Founder's Philosophy (Mohammed Yassin Haddad)
 
 The founder believes that "knowledge is power," and that understanding hacking techniques and data access is the only way to build impenetrable security systems. Under his guidance, 3EE focuses on the motto "No Pain, No Gain," where every line of code is considered a step towards digital sovereignty.
 
 Technical Arsenal
-- **الأنظمة:** Kali Linux
-- **اللغات:** Bash Scripting, Python, C++
+- **Kali Linux**
+- **Bash Scripting, Python, C++**
 
 ---
 
