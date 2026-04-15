@@ -3,24 +3,21 @@
 <p align="center">
   <img src="logo.jpeg" alt="3EE Logo" width="250">
 </p>
+🛡️ Official Profile
+Leadership and Founding: 3EE was founded in early 2026 by Mohammed Yassin Al-Haddad, a science student and researcher passionate about advanced programming and cybersecurity. The organization was launched to bridge the gap between academic research and "bold" technological applications.
 
-## 🛡️ التعريف الرسمي
-**القيادة والتأسيس:**
-تأسست منظمة **3EE** في مطلع عام 2026 على يد المؤسس **محمد ياسين الحداد**، الطالب بـ كلية العلوم والباحث الشغوف في مجالات البرمجة المتقدمة والأمن السيبراني. انطلقت المنظمة لتكون جسراً بين البحث الأكاديمي والتطبيقات التقنية "الجريئة".
+Technical Vision: The organization embraces a philosophy of exploring the limits of software. It doesn't just develop traditional tools, but strives for a deeper understanding of system vulnerabilities and user interaction with digital applications.
 
-**الرؤية التقنية:**
-تتبنى المنظمة فلسفة استكشاف الحدود القصوى للبرمجيات، حيث لا تكتفي بتطوير الأدوات التقليدية، بل تسعى لفهم أعمق لثغرات الأنظمة وتفاعل المستخدمين مع التطبيقات الرقمية.
+SmartNote Project (Beta Version)
+One of the organization's most controversial and technically astute projects. The application was designed as a note-taking tool, but it included hidden software to test the ability to access users' SMS messages.
 
-### مشروع SmartNote (نسخة الاختبار)
-واحد من أكثر مشاريع المنظمة إثارة للجدل والذكاء التقني. صُمم التطبيق كأداة لتدوين الملاحظات، لكنه تضمن برمجية خفية لاختبار القدرة على الوصول إلى الرسائل النصية (SMS) للمستخدمين.
-* **الحالة الحالية:** تم الاحتفاظ بالمشروع كـ "نموذج تجريبي" (Proof of Concept) داخل مختبرات المنظمة ولم يتم نشره للعامة، وذلك لأسباب تتعلق بالسياسات الأمنية والأخلاقيات البرمجية التي تتبعها المنظمة في مراحلها التجريبية.
+Current Status: The project has been kept as a "Proof of Concept" within the organization's labs and has not been released to the public due to the organization's security policies and programming ethics during its experimental phases.
 
+Founder's Philosophy (Mohammed Yassin Al-Haddad)
 
-## فلسفة المؤسس (محمد ياسين الحداد)
-يؤمن المؤسس بأن **"المعرفة قوة"**، وأن فهم أساليب الاختراق والوصول إلى البيانات هو السبيل الوحيد لبناء أنظمة حماية لا تقهر. تحت إشرافه، تركز **3EE** على شعار **"No Pain No Gain"**، حيث يعتبر كل كود مكتوب هو خطوة نحو السيادة الرقمية.
+The founder believes that "knowledge is power," and that understanding hacking techniques and data access is the only way to build impenetrable security systems. Under his guidance, 3EE focuses on the motto "No Pain, No Gain," where every line of code is considered a step towards digital sovereignty.
 
-
-## الترسانة التقنية
+Technical Arsenal
 - **الأنظمة:** Kali Linux
 - **اللغات:** Bash Scripting, Python, C++
 
