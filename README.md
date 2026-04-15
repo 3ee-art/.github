@@ -4,7 +4,7 @@
   <img src="logo.jpeg" alt="3EE Logo" width="250">
 </p>
 🛡️ Official Profile
-Leadership and Founding: 3EE was founded in early 2026 by Mohammed Yassin Al-Haddad, a science student and researcher passionate about advanced programming and cybersecurity. The organization was launched to bridge the gap between academic research and "bold" technological applications.
+Leadership and Founding: 3EE was founded in early 2026 by Mohammed Yassin Haddad, a science student and researcher passionate about advanced programming and cybersecurity. The organization was launched to bridge the gap between academic research and "bold" technological applications.
 
 Technical Vision: The organization embraces a philosophy of exploring the limits of software. It doesn't just develop traditional tools, but strives for a deeper understanding of system vulnerabilities and user interaction with digital applications.
 
